@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asami
-- 👀 I’m interested in JavaScript and Next.js
+- 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning Next.js
 
 <!---
