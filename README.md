@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Asami
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Next.js
+- 👋 はじめまして、Asamiと申します。
+- とりあえずやってみよう精神でこれまでいくつかアプリ制作をしてきました。今後もこの精神で魅力あるアプリを考えて開発していきたいです。
+- よろしくおねがいします🥰
 
 <!---
 Asami222/Asami222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
